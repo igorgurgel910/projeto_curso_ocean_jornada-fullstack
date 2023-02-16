@@ -140,3 +140,4 @@ Criando 3 terminais:
     
 Rodando projeto nos dois terminais
     npm run dev
+    
