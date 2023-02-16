@@ -47,3 +47,13 @@ Aprenda a construir um site utilizando a tecnologia ReactJS, com a linguagem de 
 
 <br>
 Avaliação do curso:<br>
+
+
+
+## Aula 06 - 16/02/2023
+
+Para assionar o modo desenvolvedor:
+    npm run dev
+
+
+
