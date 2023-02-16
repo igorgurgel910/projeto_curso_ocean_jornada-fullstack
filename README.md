@@ -106,13 +106,13 @@ Para Criar Node pacote. Run:
 Para assionar o modo desenvolvedor:
     npm run dev
 
-<div>Criando 3 terminais:
+Criando 3 terminais:
     backend - cd backend
     frontend - cd frontend
     git - na pasta raiz
 
 Backend foi criado manualmente, já o frontend é criado por apoio do VITE.
-</div>
+
 - Na criação do frontend:
 - Dentro da pasta raiz, usando terminal Git
 - Para usar o VITE - criando projeto react:
