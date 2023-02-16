@@ -140,5 +140,3 @@ Backend foi criado manualmente, já o frontend é criado por apoio do VITE.
 
 - Rodando projeto nos dois terminais
     npm run dev
-
-Eu estou testando o novo commit.
