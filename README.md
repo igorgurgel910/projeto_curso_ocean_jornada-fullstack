@@ -48,12 +48,32 @@ Aprenda a construir um site utilizando a tecnologia ReactJS, com a linguagem de 
 <br>
 Avaliação do curso:<br>
 
-
+Comandos GIT
+    git add .
+    git commit -m "update"
+    git push
 
 ## Aula 06 - 16/02/2023
 
 Para assionar o modo desenvolvedor:
     npm run dev
 
+Para Criar Node pacote:
+    npm init
 
+Para fazer projeto react no frontend com NPX
+    npx create-react-app my-app
+    cd my-app
+    npm start
+
+Para usar o VITE
+    npm create vite
+        √ Project name: ... frontend
+        √ Select a framework: » React
+        √ Select a variant: » JavaScript
+
+Done. Now run:
+  cd frontend
+  npm install
+  npm run dev
 
