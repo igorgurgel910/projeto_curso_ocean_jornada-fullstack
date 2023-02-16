@@ -93,12 +93,12 @@ https://gitpod.io/#https://github.com/paulosalvatore/ocean-jornada-fullstack-fev
 
 ## Avaliação do curso:<br>
 
-Comandos GIT. Run:
+Comandos GIT:
     git add .
     git commit -m "update"
     git push
 
-Para Criar Node pacote. Run:
+Para Criar Node pacote:
     npm init
 
 ## Aula 05 - 16/02/2023
@@ -113,30 +113,30 @@ Criando 3 terminais:
 
 Backend foi criado manualmente, já o frontend é criado por apoio do VITE.
 
-- Na criação do frontend:
-- Dentro da pasta raiz, usando terminal Git
-- Para usar o VITE - criando projeto react:
+Na criação do frontend:
+Dentro da pasta raiz, usando terminal Git
+Para usar o VITE - criando projeto react:
     npm create vite
         √ Project name: ... frontend
         √ Select a framework: » React
         √ Select a variant: » JavaScript
 
-- Done. Now run:
+Done. Now run:
     cd frontend
     npm install
     npm run dev
 
-- Criação da pasta Componentes
+Criação da pasta Componentes
     Dentro criou a pasta ReadAll
         Dentro criou file ReadAll.jsx
         Arquivo que substituiu o app na tela do localhost.
 
 ## Aula 06 - 17/02/2023
 
-- Criando 3 terminais:
+Criando 3 terminais:
     backend - cd backend
     frontend - cd frontend
     git - na pasta raiz
 
-- Rodando projeto nos dois terminais
+Rodando projeto nos dois terminais
     npm run dev
