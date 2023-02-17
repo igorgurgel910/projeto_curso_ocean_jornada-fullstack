@@ -13,8 +13,13 @@
  * passos que fizemos para a criação do componente ReadAll
  */
 
+import Card from "../Card/Card";
+
 function ReadAll() {
-    return <div>Read All</div>
+    return <div className="ReadAll">
+        <Card />
+    </div>
+
 }
 
 export default ReadAll;
