@@ -12,11 +12,12 @@
  * Pegue o div com a classe "Card" e extraia em um componente JSX, seguindo os mesmos
  * passos que fizemos para a criação do componente ReadAll
  */
-
+import "./ReadAll.css";
 import Card from "../Card/Card";
 
 function ReadAll() {
     return <div className="ReadAll">
+        <Card />
         <Card />
     </div>
 
