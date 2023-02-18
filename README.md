@@ -130,6 +130,12 @@ Criação da pasta Componentes
     Dentro criou a pasta ReadAll
         Dentro criou file ReadAll.jsx
         Arquivo que substituiu o app na tela do localhost.
+        Depois Criou ReadAll.Css
+
+Alterou arquivo /src/App.jsx
+
+Criação da pasta Card dentro de Componentes
+    Dentro criou Cardcss e Card.jsxn
 
 ## Aula 06 - 17/02/2023
 
