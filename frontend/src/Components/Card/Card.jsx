@@ -1,4 +1,4 @@
-import "./Card.css";
+import "./Card.css"
 
 function Card(props) {
     // console.log(props);
@@ -9,7 +9,7 @@ function Card(props) {
             <h1>{item.nome}</h1>
             <img src={item.imagemUrl} />
         </div>
-    );
+    )
 }
 
 export default Card;
