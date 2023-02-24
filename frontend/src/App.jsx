@@ -1,5 +1,5 @@
 import "./App.css";
-import Header from "./components/Header/Header";
+import Header from "./components/Header/Header.jsx";
 import ReadAll from "./components/ReadAll/ReadAll";
 
 /**

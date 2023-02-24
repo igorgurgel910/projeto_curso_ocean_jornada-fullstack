@@ -188,3 +188,18 @@ Abrir o projeto no render.com
 Conectando com Github
 Conectar projeto da aula
 Abrir projeto no github e apertar tecla . (ponto) para abrir VSCode online.
+
+No render
+    New Web Services
+        Root Directory - backend
+        Build Command - npm install
+        Publish directory - npm run start
+
+No front end coloca o link do render, no ReadAll.jsx
+
+    New Static Site
+        Root Directory - frontend
+        Build Command - npm install; npm run build
+        Publish directory - dist
+
+
