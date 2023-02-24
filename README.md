@@ -146,3 +146,38 @@ Criando 3 terminais:
 
 Rodando projeto nos dois terminais
     npm run dev
+
+## Aula 07 - 23/02/2023
+
+MONO REPO - Estrutura de duas pastas, dois projetos, como backend e frontend no mesmo projeto.
+
+Opção de extensão pra React:
+    dsznajder.es7-react-js-snippets
+    'rfce'
+
+Estudar sobre CSS:
+https://getbem.com/naming/
+https://tailwindcss.com/
+https://flexboxfroggy.com/
+
+- Criar pasta components/Header
+- Criar arquivo Header.jsx
+- Inserir boilerplate de componente
+- Inserir o Header no App
+- Testar pela primeira vez
+- Inserir imagem
+- Inserir dois links (por enquanto indo para o caminho "#")
+- Adicionar estilização no Header
+- Adicionar uma classe no elemento principal
+- Adicionar alguma propriedade qualquer para testar se está funcionando, geralmente uma propriedade que altera cor ou tamanho, pois fica mais visível
+- Depois, ir para o DevTools para explorar a estilização
+- Assim que acertar a estilização, insira as declarações no arquivo de estilo
+
+Deu erro no nodemon
+    npm install
+    npm run dev
+
+no Backend
+    npm install cors
+
+    Importou o Cors no index.js
