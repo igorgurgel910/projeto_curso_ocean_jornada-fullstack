@@ -181,3 +181,10 @@ no Backend
     npm install cors
 
     Importou o Cors no index.js
+
+## Aula 08 - 24/02/2023
+
+Abrir o projeto no render.com
+Conectando com Github
+Conectar projeto da aula
+Abrir projeto no github e apertar tecla . (ponto) para abrir VSCode online.
